@@ -2,8 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Rahul+Singha!;" />
 </h1>
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Singha-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rahul-singha-1b4914326)
 
+</div>
 
 ## 💻 Learning to Code | 🚀 Future Tech Explorer
 > "Every great developer was once a beginner who forgot a semicolon." — Me, 5 minutes ago
