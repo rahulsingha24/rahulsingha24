@@ -33,8 +33,15 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsingha24&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsingha24&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingha24&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+
+<details>
+<summary> <strong> More stats </strong> </summary>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=rahulsingha24&theme=radical&hide_border=false"/>
+</details>
+
 </div>
 
 ---
@@ -47,9 +54,10 @@ Want to discuss beginner projects, curse JavaScript quirks, or debate if C is sc
 
 ---
 
+## ⚡ Fun Fact
 > "Code never lies, comments sometimes do." — Ron Jeffries
 
-⚡ I once fixed a bug in my sleep. Still trying to figure out how to do it while awake.
+😴 I once fixed a bug in my sleep. Still trying to figure out how to do it while awake.
 
 ---
 
