@@ -4,14 +4,16 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Singha-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rahul-singha-1b4914326)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Rahul_Singha-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/rahulsingha-cse)
+[![Email](https://img.shields.io/badge/Email-singharahul2005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singharahul2005@gmail.com)
 
 </div>
 
-## 💻 Learning to Code | 🚀 Future Tech Explorer
+## 💡 Ideas. Execution. Impact.
+
 > "Every great developer was once a beginner who forgot a semicolon." — Me, 5 minutes ago
 
-🎓 First-year B.Tech student at Kalyani Government Engineering College, on a mission to turn curiosity into code. Currently learning the basics and dreaming of building cool tech one line at a time.
+🎓 B.Tech Computer Science and Engineering student at Kalyani Government Engineering College, transforming ideas into practical projects and building the skills to create meaningful technology.
 
 ---
 
@@ -19,12 +21,29 @@
 
 <div align="center">
 
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### Languages & Web
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frameworks and Services
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
@@ -48,13 +67,15 @@
 
 ## 📫 Get In Touch
 
-Want to discuss beginner projects, curse JavaScript quirks, or debate if C is scary or fun? I’m all ears!
+I am open to discussing projects, hackathons, internships, learning opportunities, and meaningful collaborations.
 
-[![Email](https://img.shields.io/badge/Email-singharahul2005%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:singharahul2005@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/rahulsingha-cse)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singharahul2005@gmail.com)
 
 ---
 
 ## ⚡ Fun Fact
+
 > "Code never lies, comments sometimes do." — Ron Jeffries
 
 😴 I once fixed a bug in my sleep. Still trying to figure out how to do it while awake.
