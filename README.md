@@ -53,12 +53,13 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsingha24&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingha24&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsingha24&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulsingha24&theme=radical"/>
 
 <details>
-<summary> <strong> More stats </strong> </summary>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=rahulsingha24&theme=radical&hide_border=false"/>
+<summary><strong>More stats</strong></summary>
+<br/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=rahulsingha24&theme=radical&hide_border=false"/>
 </details>
 
 </div>
